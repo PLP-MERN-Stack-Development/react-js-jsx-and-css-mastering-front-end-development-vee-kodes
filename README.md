@@ -1,3 +1,8 @@
+> ✅ **Assignment Complete:** The full project implementation and source code are located in the [`reactTask/`](reactTask) directory.
+
+
+---
+
 # React.js and Tailwind CSS Assignment
 
 This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
